@@ -6,7 +6,7 @@ Un'analisi visiva dei dati di Rotten Tomatoes, realizzata con Tableau per confro
 https://public.tableau.com/app/profile/e.z2465/viz/Cartella2_17795491767280/Dashboard1
 
 ## Anteprima della Dashboard
-![Anteprima Dashboard](dashboard-preview.png)
+![Anteprima Dashboard](dashboard-preview1.png)
 
 ## Funzionalità Principali
 - **Ratings Across Genres:** Analisi dell'impatto dei generi in base ai punteggi dei critici.
